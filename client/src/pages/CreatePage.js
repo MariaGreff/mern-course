@@ -21,7 +21,6 @@ export const CreatePage = () => {
                     'POST', 
                     {from: link}, 
                     { Authorization: `Bearer ${auth.token}` });
-                    console.log(data);
                     history.push(`/detail/${data.link._id}`);
             } catch (error) {}
         }
