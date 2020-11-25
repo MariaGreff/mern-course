@@ -2,5 +2,5 @@
   "port": 80,
   "jwtSecret": "mySecret",
   "mongoURI": "mongodb+srv://Maria:12341234@cluster0.syw6a.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "http://https://distracted-meitner-417cc5.netlify.app/"
 }
