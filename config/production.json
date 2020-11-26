@@ -1,6 +1,6 @@
 {
-  "port": 80,
+  "port": 5000,
   "jwtSecret": "mySecret",
   "mongoURI": "mongodb+srv://Maria:12341234@cluster0.syw6a.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "https://distracted-meitner-417cc5.netlify.app/"
+  "baseUrl": "https://limitless-thicket-27484.herokuapp.com/"
 }
