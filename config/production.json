@@ -1,5 +1,5 @@
 {
-  "port": 5000,
+  "port": 80,
   "jwtSecret": "mySecret",
   "mongoURI": "mongodb+srv://Maria:12341234@cluster0.syw6a.mongodb.net/app?retryWrites=true&w=majority",
   "baseUrl": "https://limitless-thicket-27484.herokuapp.com/"

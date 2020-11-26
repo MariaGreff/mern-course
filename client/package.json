@@ -25,7 +25,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "http://localhost:5000",
+  "proxy": "https://limitless-thicket-27484.herokuapp.com/",
   "browserslist": {
     "production": [
       ">0.2%",
